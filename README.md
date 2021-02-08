@@ -1,6 +1,10 @@
 ### Hi litianc 👋
 
+![Xiaoyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=litianc&show_icons=true)
+
 Follow my [Zhihu account](https://www.zhihu.com/people/xiao-ge-79-63)
+
+
 
 <!--
 **litianc/litianc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
