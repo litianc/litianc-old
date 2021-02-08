@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi litianc 👋
+
+Follow my [Zhihu account](https://www.zhihu.com/people/xiao-ge-79-63)
 
 <!--
 **litianc/litianc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
