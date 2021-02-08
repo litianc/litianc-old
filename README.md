@@ -1,4 +1,4 @@
-### Hi litianc 👋
+### Hi 👋
 
 ![Xiaoyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=litianc&show_icons=true)
 
